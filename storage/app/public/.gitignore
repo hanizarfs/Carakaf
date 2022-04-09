@@ -1,0 +1,4 @@
+*
+!.gitignore
+
+$path = $request->file('file')->store('public/files');
